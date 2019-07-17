@@ -1,6 +1,7 @@
 # World War Bot
 
 I stole the country data from https://github.com/lorey/list-of-countries
+And also I use https://gadm.org/
 
 The procedure works as follows:
 
