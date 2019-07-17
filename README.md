@@ -1,7 +1,5 @@
 # World War Bot
 
-Dumb algorithm for finding the ultimate warmonger
-
 I stole the country data from https://github.com/lorey/list-of-countries
 
 The procedure works as follows:
